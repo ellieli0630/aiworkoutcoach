@@ -40,8 +40,8 @@ It’s **agentic commerce**: no searching, no browsing, no checkout pain — jus
 ---
 ## What Was Built Before This Weekend 🏗  
 The AI Workout Coach builds on an existing foundation developed prior to this hackathon:  
-- **1:1 Chat & Video Calls with Avatars** → Real-time conversational and visual interactions with AI avatars  
-- **RPM (Role Prompt Management) System** → Framework for updating system prompts and training different personas dynamically
+- **1:1 Chat & Video Calls with Ready Player Me Avatars** → Real-time conversational and visual interactions with AI avatars  
+- **Persona Management & Prompt System** → Framework for updating system prompts and training different personas dynamically
    
 ---
 ## Future Improvements 🛠  
