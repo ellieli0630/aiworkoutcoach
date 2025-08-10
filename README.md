@@ -11,7 +11,7 @@
 ---
 
 ## Overview  
-AI Workout Coach is a modern web application that combines **AI-powered fitness coaching** with **agentic commerce**.  
+AI Workout Coach is an app that combines **AI-powered fitness coaching** with **agentic commerce**.  
 It delivers personalized workout plans, real-time exercise guidance, and posture correction — then lets you instantly purchase recommended fitness gear or supplements via **Crossmint + Coinbase CDP Wallet** using Apple Pay or crypto.  
 
 ---
@@ -38,7 +38,12 @@ It’s **agentic commerce**: no searching, no browsing, no checkout pain — jus
 - **📈 Progress Tracking** – Visual analytics to monitor improvement over time  
 
 ---
-
+## What Was Built Before This Weekend 🏗  
+The AI Workout Coach builds on an existing foundation developed prior to this hackathon:  
+- **1:1 Chat & Video Calls with Avatars** → Real-time conversational and visual interactions with AI avatars  
+- **RPM (Role Prompt Management) System** → Framework for updating system prompts and training different personas dynamically
+   
+---
 ## Future Improvements 🛠  
 - **Amazon Search API Integration** → Smarter recommendations + expansion to Shopify merchants  
 - **User Authentication + CDP Server Wallet Management** → Secure wallet integration for Amazon order placement  
